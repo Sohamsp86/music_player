@@ -19,4 +19,6 @@ Once the development server is running, you can access the app by visiting http:
 3. Click the "Play" button on a track to play a 30-second preview of the song
 4. Use the audio player controls to pause, resume, and adjust the volume of the song
 
- 
+## Demo Video
+
+https://drive.google.com/file/d/1mu6IYw93RELSNoZeRm1-uRAtroASnDOB/view?usp=drive_link
