@@ -21,4 +21,29 @@ Once the development server is running, you can access the app by visiting http:
 
 ## Demo Video
 
-https://drive.google.com/file/d/1mu6IYw93RELSNoZeRm1-uRAtroASnDOB/view?usp=drive_link
+https://github.com/Sohamsp86/music_player/assets/101500957/e63ad773-a475-41d3-a5ac-7fe613922138
+
+## Documentation
+
+[High Level Design](https://github.com/Sohamsp86/music_player/files/14817153/HLD.1.pdf)
+
+[Low Level Design.pdf](https://github.com/Sohamsp86/music_player/files/14817158/Low.Level.Design.pdf)
+
+[Architecture](https://github.com/Sohamsp86/music_player/files/14817173/Architecture_LLD.pdf)
+
+[Wireframe](https://github.com/Sohamsp86/music_player/files/14817202/Wireframe_Documentaion_Music_Streaming_Application.pdf)
+
+[Detailed Project Report](https://github.com/Sohamsp86/music_player/files/14817186/MUSIC.PLAYER.APPLICATION.pdf)
+
+## Contributers
+Soham Padwal
+
+Aditya Thorat
+
+Anurag Upadhyay
+
+Kunal Shinde 
+
+Tushar Waghmare
+
+Amruta Wani
