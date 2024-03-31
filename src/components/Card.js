@@ -126,7 +126,7 @@ function Card({ element }) {
           </h5>
           <p className="card-text">Artist: {element.album.artists[0].name}</p>
           <p className="card-text">
-            Release date: {element.album.release_date}
+            Release Date: {element.album.release_date}
           </p>
           <audio src={element.preview_url} controls className="w-100"></audio>
         </div>
